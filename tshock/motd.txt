@@ -1,0 +1,3 @@
+[c/ee00ff:Playing on] [c/ee00ff:TeenagersGaming Vanilla][c/ee00ff:!]
+[c/00FF00:Current players:] [c/FFFF00:%players%]
+[c/ee00ff:Type] [c/FF0000:/help] [c/ee00ff:for a list of commands.]

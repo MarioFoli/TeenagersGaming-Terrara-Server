@@ -1,0 +1,9 @@
+{
+  "afkwarp": true,
+  "afkkick": false,
+  "afkwarptime": 300,
+  "afkkicktime": 700,
+  "afkspam": 20,
+  "awayMessage": "{player} is away from his/her keyboard and has been warped To The AFK Zone!",
+  "returnMessage": "{player} is back from AFK! YAY!!!"
+}
