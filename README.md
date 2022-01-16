@@ -1,4 +1,4 @@
-# TeenagersGaming-Terrara-Server
+# TeenagersGaming-Terraria-Server
 
 
 Config and data files for the TeenagersGaming Terraria server.
